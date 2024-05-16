@@ -1,0 +1,33 @@
+body {
+    color: black;
+}
+
+
+.col-lg-12 {
+    margin-top: 50px;
+}
+
+.button {
+    width: 200px;
+    height: 80px;
+    background-color: red;
+}
+
+.button:hover {
+    background-color: green;
+
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+#main, p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 35px;
+}
